@@ -109,6 +109,6 @@ $lang['by'] = "by";
 $lang['admin_elements'] = "Admin Elements";
 $lang['apps'] = "Applications";
 $lang['home'] = "Home";
-$lang['logout'] = "Cerrar Sesión";
+$lang['logout'] = "Log out";
 $lang['langt'] = "Language";
 ?>
