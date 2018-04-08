@@ -3,7 +3,7 @@
 // BE SURE TO PUT A \ CHAR BEFORE THE ", FOR EXAMPLE: Press the \"Submit\" button.
 // THESE WILL BREAK THE SYSTEM:
 // Press the "Submit" button.
-// Press the "\Submit"\ button.
+// Press the "\Submit"\ button. 
 // Press the \"Submit" button.
 // Press the "Submit\" button.
 // THE RIGHT WAY IS ONLY THIS ONE:
