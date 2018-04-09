@@ -3,7 +3,7 @@
 // BE SURE TO PUT A \ CHAR BEFORE THE ", FOR EXAMPLE: Press the \"Submit\" button.
 // THESE WILL BREAK THE SYSTEM:
 // Press the "Submit" button.
-// Press the "\Submit"\ button. 
+// Press the "\Submit"\ button.
 // Press the \"Submit" button.
 // Press the "Submit\" button.
 // THE RIGHT WAY IS ONLY THIS ONE:
@@ -31,7 +31,7 @@ $lang['denied'] = "Denied...";
 $lang['apply_now'] = "Apply now!";
 $lang['apply'] = "Apply";
 $lang['playtime'] = "Screenshot of your total hours played:";
-$lang['warns'] = "Screenshot of your warns (type !warns In-Game):";
+$lang['warnsp'] = "Screenshot of your warns (type !warns In-Game):";
 $lang['email'] = "Email:";
 $lang['specify_email'] = "Please specify your email";
 $lang['submit'] = "Submit";
@@ -64,7 +64,7 @@ $lang['ban_reason'] = "Specify ban reason: (if you're unbanning someone, just le
 $lang['settings'] = "Settings";
 $lang['settings_desc_1'] = "Here you can preview or modify your system settings.";
 $lang['settings_desc_2'] = "Only the licensee has access to these settings, so you don't need to worry about another admins looking your passwords.";
-$lang['general_conf'] = "General Config";
+$lang['general_conf'] = "General Configuration";
 $lang['s_name'] = "Server Name:";
 $lang['s_name_desc'] = "Your server name.";
 $lang['steam_api_get'] = "Steam API (get it";
@@ -86,7 +86,6 @@ $lang['adv_conf'] = "Advanced Config";
 $lang['dev_access'] = "Allow developers (recommended).";
 $lang['yes'] = "Yes";
 $lang['no'] = "No";
-$lang['img_sys'] = "Enable image system:";
 $lang['captcha_sys'] = "Enable Captcha System:";
 $lang['recaptcha'] = "Re-Captcha site key - You can get it";
 $lang['recaptcha_desc'] = "Your Re-Captcha site key.";
@@ -109,6 +108,18 @@ $lang['by'] = "by";
 $lang['admin_elements'] = "Admin Elements";
 $lang['apps'] = "Applications";
 $lang['home'] = "Home";
-$lang['logout'] = "Log out";
+$lang['logout'] = "Cerrar Sesión";
 $lang['langt'] = "Language";
+$lang['background_index'] = "Home background URL (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['background_index_desc'] = "Set URL as background on the home page.";
+$lang['pic1'] = "Change Questions background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['pic1_desc'] = "Changes the background options at the admin panel.";
+$lang['pic2'] = "Admins Management background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['pic2_desc'] = "Changes the background options at the admin panel.";
+$lang['pic3'] = "Bans Management background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['pic3_desc'] =  "Changes the background options at the admin panel.";
+$lang['pic4'] = "General Config background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['pic4_desc'] = "Changes the background options at the admin panel.";
+$lang['warnsys'] = "Enable warns screenshot system:";
+$lang['timesys'] = "Enable playtime screenshot system:";
 ?>
