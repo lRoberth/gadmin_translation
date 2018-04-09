@@ -5,7 +5,7 @@
 // Press the "Submit" button.
 // Press the "\Submit"\ button.
 // Press the \"Submit" button.
-// Press the "Submit\" button. 
+// Press the "Submit\" button.
 // THE RIGHT WAY IS ONLY THIS ONE:
 // Press the \"Submit\" button.
 // \" This \" Will Not \" Break \"\" Anything \"\"\"
@@ -31,7 +31,7 @@ $lang['denied'] = "Denegado...";
 $lang['apply_now'] = "Aplicar ahora!";
 $lang['apply'] = "Aplicar";
 $lang['playtime'] = "Captura de pantalla de tu total de horas jugadas:";
-$lang['warns'] = "Captura de pantalla de tus advertencias (escribe !warns in-game):";
+$lang['warnsp'] = "Captura de pantalla de tus advertencias (escribe !warns in-game):";
 $lang['email'] = "Email:";
 $lang['specify_email'] = "Por favor especifica tu email";
 $lang['submit'] = "Enviar";
@@ -86,7 +86,6 @@ $lang['adv_conf'] = "Configuración Avanzada";
 $lang['dev_access'] = "Permitir accesso de desarrollador (recomendado).";
 $lang['yes'] = "Si";
 $lang['no'] = "No";
-$lang['img_sys'] = "Activar sistema de subida de imagenes.";
 $lang['captcha_sys'] = "Activar sistema de Re-Captcha:";
 $lang['recaptcha'] = "Identificación de sitio - Puedes conseguirla";
 $lang['recaptcha_desc'] = "Tu identificación de sitio de Re-Captcha (site key)";
@@ -111,4 +110,16 @@ $lang['apps'] = "Aplicaciones";
 $lang['home'] = "Inicio";
 $lang['logout'] = "Cerrar Sesión";
 $lang['langt'] = "Lenguaje";
+$lang['background_index'] = "URL del fondo de pantalla del inicio (asegurate de que sea un archivo de imagen directo, la resolución máxima es 1920x1080, escribe DEFAULT para establecer el predeterminado):";
+$lang['background_index_desc'] = "Establecer el URL del fondo de pantalla del inicio";
+$lang['pic1'] = "Fondo de Cambiar Preguntas (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['pic1_desc'] = "Changes the background options at the admin panel.";
+$lang['pic2'] = "Fondo de Administrar Administradores (asegurate que es un archivo de imagen directo, la resolución máxima es 1920x1080, escribe DEFAULT para restablecer la imagen predeterminada):";
+$lang['pic2_desc'] = "Cambia el fondo de la configuración en el panel de administración";
+$lang['pic3'] = "Fondo de Administrar Baneos (asegurate que es un archivo de imagen directo, la resolución máxima es 1920x1080, escribe DEFAULT para restablecer la imagen predeterminada):";
+$lang['pic3_desc'] =  "Cambia el fondo de la configuración en el panel de administración";
+$lang['pic4'] = "Fondo de la Configuración General (asegurate que es un archivo de imagen directo, la resolución máxima es 1920x1080, escribe DEFAULT para restablecer la imagen predeterminada):";
+$lang['pic4_desc'] = "Cambia el fondo de la configuración en el panel de administración";
+$lang['warnsys'] = "Habilitar el sistema de capturas de pantalla de las advertencias:";
+$lang['timesys'] = "Habilitar el sistema de capturas de pantalla de el tiempo jugado:";
 ?>
