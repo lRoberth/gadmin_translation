@@ -136,4 +136,12 @@ $lang['add_comment'] = "Add comment";
 $lang['applicant'] = "Applicant";
 $lang['date_at_hour'] = "at"; // RESULT WOULD BE FOR EXAMPLE: 04/14/2018 at 9:03 p.m
 $lang['applicant_id'] = "Apply ID:";
+ // DATE FORMAT, RESULT WOULD BE: 01/12/2018. PLEASE DO NOT CHANGE THE WORDS.
+// YOU CAN DO FOR EXAMPLE, year-month-day AND RESULT WILL BE: 2018-12-01
+// JUST DON'T CHANGE/EDIT 'month', 'day', 'year'
+$lang['date'] = "month/day/year";
+// HOUR FORMAT, RESULT WOULD BE: 02:25 p.m. PLEASE DO NOT CHANGE THE WORDS
+// YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
+// JUST DON'T CHANGE/EDIT 'hours', 'minutes', 'meridiem'
+$lang['hour'] = "hours:minutes meridiem";
 ?>
