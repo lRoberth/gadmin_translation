@@ -10,9 +10,10 @@
 // Press the \"Submit\" button.
 // \" This \" Will Not \" Break \"\" Anything \"\"\"
 // HOPE YOU UNDERSTAND IT.
-// YOU CAN ACTUALLY SEE A LIVE EXAMPLE AT LINE 48.
+// YOU CAN ACTUALLY SEE A LIVE EXAMPLE AT LINE 16.
 // THANK YOU FOR HELPING ME TRANSLATING THIS SCRIPT TO OTHER LANGUAGES.
 
+$lang['quest_desc'] = "Puedes cambiar las preguntas de las aplicaciones aquí, recuerda presionar \"Enviar\" al final del todo.";
 $lang['email_invalid'] = "El email que has proporcionado es invalido";
 $lang['not_image'] = "El archivo no es una imagen";
 $lang['img_large'] = "La imagen es demaciado grande";
@@ -38,14 +39,12 @@ $lang['submit'] = "Enviar";
 $lang['cancel'] = "Cancelar";
 $lang['submit_applies'] = "Aplicaciones Enviadas";
 $lang['weird_stuff_report'] = "Algo raro esta pasando, por favor reporta esto a ";
-$lang['watch_application'] = "Mirar esta aplicación";
 $lang['error'] = "Error";
 $lang['not_found'] = "Lo sentimos, la pagina no ha sido encontrada";
 $lang['if_not'] = "Si no eres re-dirigido en 5 segundos, presiona";
 $lang['here'] = "aquí";
 $lang['admin_p'] = "Panel de Administración";
 $lang['change_questions'] = "Cambiar Preguntas";
-$lang['quest_desc'] = "Puedes cambiar las preguntas de las aplicaciones aquí, recuerda presionar \"Enviar\" al final del todo.";
 $lang['quest'] = "Pregunta";
 $lang['manage_admins'] = "Administrar Administradores";
 $lang['manage_admins_desc'] = "Ten en cuenta que cualquier administrador especificado aquí, tendrá derecho de administrar las aplicaciones, administradores y baneos.";
@@ -122,4 +121,26 @@ $lang['pic4'] = "Fondo de la Configuración General (asegurate que es un archivo
 $lang['pic4_desc'] = "Cambia el fondo de la configuración en el panel de administración";
 $lang['warnsys'] = "Habilitar el sistema de capturas de pantalla de las advertencias:";
 $lang['timesys'] = "Habilitar el sistema de capturas de pantalla de el tiempo jugado:";
+$lang['watch_application'] = "Revisar";
+$lang['comments'] = "Comentarios";
+$lang['comment_conf'] = "Configuración del Sistema de Comentarios";
+$lang['comments_enable'] = "Habilitar el sistema de comentarios?";
+$lang['comments_remove_root'] = "Debería sólo los administradores root tener permitido eliminar comentarios?";
+$lang['comments_remove_self'] = "Deberían los administradores y administradores root tener permitido eliminar sus propios comentarios?";
+$lang['comments_admin_remove_root'] = "Deberían los administradores tener permitido eliminar los comentarios de los administradores root?";
+$lang['comments_admin_remove_admins'] = "Deberían los administradores tener permitido eliminar los comentarios de otros administradores?";
+$lang['no_comments'] = "Actualmente no hay ningún comentario, agrega uno debajo.";
+$lang['send_comment'] = "Enviar comentario";
+$lang['add_comment'] = "Agregar un comentario";
+$lang['applicant'] = "Aplicante";
+$lang['date_at_hour'] = "a las"; // RESULT WOULD BE FOR EXAMPLE: 04/14/2018 at 9:03 p.m
+$lang['applicant_id'] = "ID de la aplicación";
+ // DATE FORMAT, RESULT WOULD BE: 01/12/2018. PLEASE DO NOT CHANGE THE WORDS.
+// YOU CAN DO FOR EXAMPLE, year-month-day AND RESULT WILL BE: 2018-12-01
+// JUST DON'T CHANGE/EDIT 'month', 'day', 'year'
+$lang['date'] = "day/month/year";
+// HOUR FORMAT, RESULT WOULD BE: 02:25 p.m. PLEASE DO NOT CHANGE THE WORDS
+// YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
+// JUST DON'T CHANGE/EDIT 'hours', 'minutes', 'meridiem'
+$lang['hour'] = "hours:minutes meridiem";
 ?>
