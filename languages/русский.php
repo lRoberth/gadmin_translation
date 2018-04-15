@@ -130,4 +130,9 @@ $lang['comments_remove_root'] = "Should ONLY root admins be allowed to remove co
 $lang['comments_remove_self'] = "Should admins/root admins be allowed to remove their own comments?";
 $lang['comments_admin_remove_root'] = "Should admins be allowed to remove root admin comments?";
 $lang['comments_admin_remove_admins'] = "Should admins be allowed to remove other admin comments?";
+$lang['no_comments'] = "There are currently no comments, add a comment now below.";
+$lang['send_comment'] = "Send comment";
+$lang['add_comment'] = "Add comment";
+$lang['applicant'] = "Applicant";
+$lang['date_at_hour'] = "at"; // RESULT WOULD BE FOR EXAMPLE: 04/14/2018 at 9:03 p.m
 ?>
