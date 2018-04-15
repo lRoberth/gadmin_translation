@@ -122,4 +122,12 @@ $lang['pic4'] = "General Config background (be sure it's a direct image file, ma
 $lang['pic4_desc'] = "Changes the background options at the admin panel.";
 $lang['warnsys'] = "Enable warns screenshot system:";
 $lang['timesys'] = "Enable playtime screenshot system:";
+$lang['watch_application'] = "Review";
+$lang['comments'] = "Comments";
+$lang['comment_conf'] = "Comment System Config";
+$lang['comments_enable'] = "Enable commenting system?";
+$lang['comments_remove_root'] = "Should ONLY root admins be allowed to remove comments?";
+$lang['comments_remove_self'] = "Should admins/root admins be allowed to remove their own comments?";
+$lang['comments_admin_remove_root'] = "Should admins be allowed to remove root admin comments?";
+$lang['comments_admin_remove_admins'] = "Should admins be allowed to remove other admin comments?";
 ?>
