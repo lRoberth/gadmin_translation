@@ -110,38 +110,38 @@ $lang['apps'] = "Заявки";
 $lang['home'] = "Главная";
 $lang['logout'] = "Выйти";
 $lang['langt'] = "Язык";
-$lang['background_index'] = "Home background URL (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
-$lang['background_index_desc'] = "Set URL as background on the home page.";
-$lang['pic1'] = "Questions background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
-$lang['pic1_desc'] = "Changes the background options at the admin panel.";
-$lang['pic2'] = "Admins Management background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
-$lang['pic2_desc'] = "Changes the background options at the admin panel.";
-$lang['pic3'] = "Bans Management background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
-$lang['pic3_desc'] =  "Changes the background options at the admin panel.";
-$lang['pic4'] = "General Config background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
-$lang['pic4_desc'] = "Changes the background options at the admin panel.";
-$lang['warnsys'] = "Enable warns screenshot system:";
-$lang['timesys'] = "Enable playtime screenshot system:";
-$lang['watch_application'] = "Review";
-$lang['comments'] = "Comments";
-$lang['comment_conf'] = "Comment System Config";
-$lang['comments_enable'] = "Enable commenting system?";
-$lang['comments_remove_root'] = "Should ONLY root admins be allowed to remove comments?";
-$lang['comments_remove_self'] = "Should admins/root admins be allowed to remove their own comments?";
-$lang['comments_admin_remove_root'] = "Should admins be allowed to remove root admin comments?";
-$lang['comments_admin_remove_admins'] = "Should admins be allowed to remove other admin comments?";
-$lang['no_comments'] = "There are currently no comments, add a comment now below.";
-$lang['send_comment'] = "Send comment";
-$lang['add_comment'] = "Add comment";
-$lang['applicant'] = "Applicant";
-$lang['date_at_hour'] = "at"; // RESULT WOULD BE FOR EXAMPLE: 04/14/2018 at 9:03 p.m
-$lang['applicant_id'] = "Apply ID:";
+$lang['background_index'] = "URL фона главной страницы (убедитесь, что это прямая ссылка на файл изображения, Максимальное разрешение 1920x1080, введите DEFAULT, чтобы установить по умолчанию):";
+$lang['background_index_desc'] = "Установить URL в качестве фона на главной странице.";
+$lang['pic1'] = "Фон вопросов (убедитесь, что это прямая ссылка на файл изображения, Максимальное разрешение 1920x1080, введите по DEFAULT, чтобы установить по умолчанию):";
+$lang['pic1_desc'] = "Изменяет параметры фона в панели администратора.";
+$lang['pic2'] = "Фон управления Администраторами (убедитесь, что это прямая ссылка на файл изображения, Максимальное разрешение 1920x1080, введите DEFAULT для установки по умолчанию):";
+$lang['pic2_desc'] = "Изменяет параметры фона в панели администратора.";
+$lang['pic3'] = "Фон управления банами (убедитесь, что это прямая ссылка на файл изображения, Максимальное разрешение 1920x1080, введите DEFAULT для установки по умолчанию):";
+$lang['pic3_desc'] =  "Изменяет параметры фона в панели администратора.";
+$lang['pic4'] = "Фон основных настроек (убедитесь, что это прямая ссылка на файл изображения, Максимальное разрешение 1920x1080, введите DEFAULT для установки по умолчанию):";
+$lang['pic4_desc'] = "Изменяет параметры фона в панели администратора.";
+$lang['warnsys'] = "Включить систему скриншотов с предупреждениями:";
+$lang['timesys'] = "Включить систему скриншотов с онлайном игрока:";
+$lang['watch_application'] = "Обзор";
+$lang['comments'] = "Комментарии";
+$lang['comment_conf'] = "Настройка системы комментариев";
+$lang['comments_enable'] = "Включить систему комментариев?";
+$lang['comments_remove_root'] = "Только root-админы могут удалять комментарии?";
+$lang['comments_remove_self'] = "Могут ли администраторы /root - админы удалять свои собственные комментарии??";
+$lang['comments_admin_remove_root'] = "Могут ли администраторы удалять комментарии root-администратора?";
+$lang['comments_admin_remove_admins'] = "Могут ли администраторы удалять другие комментарии администратора?";
+$lang['no_comments'] = "В настоящее время нет комментариев, добавьте комментарий ниже.";
+$lang['send_comment'] = "Отправить комментарий";
+$lang['add_comment'] = "Добавить комментарий";
+$lang['applicant'] = "Заявитель";
+$lang['date_at_hour'] = "at"; // РЕЗУЛЬТАТ БЫЛ ДЛЯ ПРИМЕРА: 04/14/2018 at 9:03 p.m
+$lang['applicant_id'] = "Номер заявки:";
  // DATE FORMAT, RESULT WOULD BE: 01/12/2018. PLEASE DO NOT CHANGE THE WORDS.
 // YOU CAN DO FOR EXAMPLE, year-month-day AND RESULT WILL BE: 2018-12-01
-// JUST DON'T CHANGE/EDIT 'month', 'day', 'year'
+// НЕ ИЗМЕНЯЙТЕ 'month', 'day', 'year'
 $lang['date'] = "month/day/year";
 // HOUR FORMAT, RESULT WOULD BE: 02:25 p.m. PLEASE DO NOT CHANGE THE WORDS
 // YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
-// JUST DON'T CHANGE/EDIT 'hours', 'minutes', 'meridiem'
+// НЕ ИЗМЕНЯЙТЕ 'hours', 'minutes', 'meridiem'
 $lang['hour'] = "hours:minutes meridiem";
 ?>
