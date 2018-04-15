@@ -10,9 +10,10 @@
 // Press the \"Submit\" button.
 // \" This \" Will Not \" Break \"\" Anything \"\"\"
 // HOPE YOU UNDERSTAND IT.
-// YOU CAN ACTUALLY SEE A LIVE EXAMPLE AT LINE 48.
+// YOU CAN ACTUALLY SEE A LIVE EXAMPLE AT LINE 16.
 // THANK YOU FOR HELPING ME TRANSLATING THIS SCRIPT TO OTHER LANGUAGES.
 
+$lang['quest_desc'] = "You can change your application questions here, remember to press \"Submit\" at the very bottom.";
 $lang['email_invalid'] = "The email address you entered is not valid";
 $lang['not_image'] = "File is not an image";
 $lang['img_large'] = "The image file is too large";
@@ -38,14 +39,12 @@ $lang['submit'] = "Submit";
 $lang['cancel'] = "Cancel";
 $lang['submit_applies'] = "Submitted Applications";
 $lang['weird_stuff_report'] = "Something strange is going on, please report this to ";
-$lang['watch_application'] = "Watch this application";
 $lang['error'] = "Error";
 $lang['not_found'] = "Sorry, page not found";
 $lang['if_not'] = "If you don't get redirected in 5 seconds, click";
 $lang['here'] = "here";
 $lang['admin_p'] = "Admin Panel";
 $lang['change_questions'] = "Change Questions";
-$lang['quest_desc'] = "You can change your application questions here, remember to press \"Submit\" at the very bottom.";
 $lang['quest'] = "Question";
 $lang['manage_admins'] = "Manage Admins";
 $lang['manage_admins_desc'] = "Note that any admin specified here, will be allowed to manage applications, administrators and bans.";
@@ -108,7 +107,7 @@ $lang['by'] = "by";
 $lang['admin_elements'] = "Admin Elements";
 $lang['apps'] = "Applications";
 $lang['home'] = "Home";
-$lang['logout'] = "Cerrar Sesión";
+$lang['logout'] = "Log out";
 $lang['langt'] = "Language";
 $lang['background_index'] = "Home background URL (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
 $lang['background_index_desc'] = "Set URL as background on the home page.";
@@ -122,4 +121,26 @@ $lang['pic4'] = "General Config background (be sure it's a direct image file, ma
 $lang['pic4_desc'] = "Changes the background options at the admin panel.";
 $lang['warnsys'] = "Enable warns screenshot system:";
 $lang['timesys'] = "Enable playtime screenshot system:";
+$lang['watch_application'] = "Review";
+$lang['comments'] = "Comments";
+$lang['comment_conf'] = "Comment System Config";
+$lang['comments_enable'] = "Enable commenting system?";
+$lang['comments_remove_root'] = "Should ONLY root admins be allowed to remove comments?";
+$lang['comments_remove_self'] = "Should admins/root admins be allowed to remove their own comments?";
+$lang['comments_admin_remove_root'] = "Should admins be allowed to remove root admin comments?";
+$lang['comments_admin_remove_admins'] = "Should admins be allowed to remove other admin comments?";
+$lang['no_comments'] = "There are currently no comments, add a comment now below.";
+$lang['send_comment'] = "Send comment";
+$lang['add_comment'] = "Add comment";
+$lang['applicant'] = "Applicant";
+$lang['date_at_hour'] = "at"; // RESULT WOULD BE FOR EXAMPLE: 04/14/2018 at 9:03 p.m
+$lang['applicant_id'] = "Apply ID";
+ // DATE FORMAT, RESULT WOULD BE: 01/12/2018. PLEASE DO NOT CHANGE THE WORDS.
+// YOU CAN DO FOR EXAMPLE, year-month-day AND RESULT WILL BE: 2018-12-01
+// JUST DON'T CHANGE/EDIT 'month', 'day', 'year'
+$lang['date'] = "month/day/year";
+// HOUR FORMAT, RESULT WOULD BE: 02:25 p.m. PLEASE DO NOT CHANGE THE WORDS
+// YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
+// JUST DON'T CHANGE/EDIT 'hours', 'minutes', 'meridiem'
+$lang['hour'] = "hours:minutes meridiem";
 ?>
