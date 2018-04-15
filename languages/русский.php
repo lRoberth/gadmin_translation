@@ -135,4 +135,5 @@ $lang['send_comment'] = "Send comment";
 $lang['add_comment'] = "Add comment";
 $lang['applicant'] = "Applicant";
 $lang['date_at_hour'] = "at"; // RESULT WOULD BE FOR EXAMPLE: 04/14/2018 at 9:03 p.m
+$lang['applicant_id'] = "Apply ID:";
 ?>
