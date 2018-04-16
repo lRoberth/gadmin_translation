@@ -57,7 +57,7 @@ $lang['manage_bans_desc_1'] = "Здесь вы можете контролиро
 $lang['manage_bans_desc_2'] = "Здесь вы также можете разбанить людей.";
 $lang['id'] = "ID";
 $lang['name'] = "Ник";
-$lang['date'] = "Дата";
+$lang['datew'] = "Дата";
 $lang['banned_b'] = "Забанен";
 $lang['cause'] = "Причина";
 $lang['ban_reason'] = "Укажите причину бана: (если вы хотите разбанить, оставьте это поле пустым)";
@@ -139,7 +139,7 @@ $lang['applicant_id'] = "Номер заявки:";
  // DATE FORMAT, RESULT WOULD BE: 01/12/2018. PLEASE DO NOT CHANGE THE WORDS.
 // YOU CAN DO FOR EXAMPLE, year-month-day AND RESULT WILL BE: 2018-12-01
 // НЕ ИЗМЕНЯЙТЕ 'month', 'day', 'year'
-$lang['datew'] = "month/day/year";
+$lang['date'] = "month/day/year";
 // HOUR FORMAT, RESULT WOULD BE: 02:25 p.m. PLEASE DO NOT CHANGE THE WORDS
 // YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
 // НЕ ИЗМЕНЯЙТЕ 'hours', 'minutes', 'meridiem'
