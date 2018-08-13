@@ -120,6 +120,8 @@ $lang['pic3'] = "Фон управления банами (убедитесь, �
 $lang['pic3_desc'] =  "Изменяет параметры фона в панели администратора.";
 $lang['pic4'] = "Фон основных настроек (убедитесь, что это прямая ссылка на файл изображения, Максимальное разрешение 1920x1080, введите DEFAULT для установки по умолчанию):";
 $lang['pic4_desc'] = "Изменяет параметры фона в панели администратора.";
+$lang['pic5'] = "Server Management background (be sure it's a direct image file, max resolution is 1920x1080, type DEFAULT to set to default):";
+$lang['pic5_desc'] = "Changes the background options at the admin panel.";
 $lang['warnsys'] = "Включить систему скриншотов с предупреждениями:";
 $lang['timesys'] = "Включить систему скриншотов с онлайном игрока:";
 $lang['watch_application'] = "Обзор";
@@ -130,6 +132,9 @@ $lang['comments_remove_root'] = "Только root-админы могут уд�
 $lang['comments_remove_self'] = "Могут ли администраторы /root - админы удалять свои собственные комментарии??";
 $lang['comments_admin_remove_root'] = "Могут ли администраторы удалять комментарии root-администратора?";
 $lang['comments_admin_remove_admins'] = "Могут ли администраторы удалять другие комментарии администратора?";
+$lang['comments_user_see'] = "Should applicants see what admins comment on his/her application?";
+$lang['comments_user_comment'] = "Should applicants be able to comment on his/her application?";
+$lang['comments_user_remove'] = "Should applicants be allowed to remove their own comments?";
 $lang['no_comments'] = "В настоящее время нет комментариев, добавьте комментарий ниже.";
 $lang['send_comment'] = "Отправить комментарий";
 $lang['add_comment'] = "Добавить комментарий";
@@ -144,4 +149,14 @@ $lang['date'] = "month/day/year";
 // YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
 // НЕ ИЗМЕНЯЙТЕ 'hours', 'minutes', 'meridiem'
 $lang['hour'] = "hours:minutes meridiem";
+$lang['server_choose'] = "For what server are you applying?";
+$lang['applicant_forserver'] = "Applying for server:";
+$lang['applicant_forserver_unknown'] = "Unknown (ID %id)";
+$lang['servers_conf'] = "Manage Servers";
+$lang['servers_conf_desc_1'] = "Here you can add or remove servers from the system.";
+$lang['servers_conf_desc_2'] = "To add a new server, specify the server unique ID and the server name, then press the green button.";
+$lang['servers_conf_desc_3'] = "To remove a server, specify the server unique ID, and press the green button.";
+$lang['server_specify_id'] = "Please specify the unique server id:";
+$lang['server_specify_name'] = "Please specify the server name: (if you're removing a server, just leave this blank)";
+$lang['server_not_available'] = "The server admin hasn't configured the available servers yet!<br>Please come back later.";
 ?>
