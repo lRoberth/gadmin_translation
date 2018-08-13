@@ -149,14 +149,14 @@ $lang['date'] = "month/day/year";
 // YOU CAN DO FOR EXAMPLE, minutes:hours meridiem AND RESULT WILL BE: 25:02 p.m
 // НЕ ИЗМЕНЯЙТЕ 'hours', 'minutes', 'meridiem'
 $lang['hour'] = "hours:minutes meridiem";
-$lang['server_choose'] = "For what server are you applying?";
-$lang['applicant_forserver'] = "Applying for server:";
-$lang['applicant_forserver_unknown'] = "Unknown (ID %id)";
-$lang['servers_conf'] = "Manage Servers";
-$lang['servers_conf_desc_1'] = "Here you can add or remove servers from the system.";
-$lang['servers_conf_desc_2'] = "To add a new server, specify the server unique ID and the server name, then press the green button.";
-$lang['servers_conf_desc_3'] = "To remove a server, specify the server unique ID, and press the green button.";
-$lang['server_specify_id'] = "Please specify the unique server id:";
-$lang['server_specify_name'] = "Please specify the server name: (if you're removing a server, just leave this blank)";
-$lang['server_not_available'] = "The server admin hasn't configured the available servers yet!<br>Please come back later.";
+$lang['server_choose'] = "Для какого сервера вы подаете заявку?";
+$lang['applicant_forserver'] = "Сервера:";
+$lang['applicant_forserver_unknown'] = "Неизвестный(ID %id)";
+$lang['servers_conf'] = "Управление серверами";
+$lang['servers_conf_desc_1'] = "Здесь вы можете добавлять или удалять сервера из системы..";
+$lang['servers_conf_desc_2'] = "Чтобы добавить новый сервер, укажите уникальный идентификатор сервера и имя сервера, затем нажмите зеленую кнопку.";
+$lang['servers_conf_desc_3'] = "Чтобы удалить сервер, укажите уникальный идентификатор сервера и нажмите зеленую кнопку.";
+$lang['server_specify_id'] = "Укажите уникальный идентификатор сервера:";
+$lang['server_specify_name'] = "Укажите имя сервера: (если вы удаляете сервер, просто оставьте это поле пустым)";
+$lang['server_not_available'] = "Владелец сервера еще не настроил доступные сервера! <br> Пожалуйста, вернитесь позже.";
 ?>
