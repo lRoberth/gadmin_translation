@@ -159,52 +159,52 @@ $lang['server_specify_id'] = "Por favor especifica la ID única del servidor:";
 $lang['server_specify_name'] = "Por favor especifica el nombre del servidor: (si estás removiendo un servidor, deja esto en blanco)";
 $lang['server_not_available'] = "El administrador del servidor no ha configurado aún los servidores disponibles!<br>Por favor vuelve mas tarde.";
 
-$lang['ranks'] = "Ranks";
-$lang['applicant_forrank'] = "Applying for rank:";
-$lang['server_specify_rank'] = "Please specify the server applicable ranks separated by a comma (CASE SENSITIVE, BE SURE IT EQUALS IN-GAME). Example: tmod, mod, admin, Head-Admin";
-$lang['servers_conf_desc_4'] = "To edit a server, specify the server unique ID, type new data, and press the green button.";
-$lang['admin_removed_success'] = "Admin removed successfully.";
-$lang['server_sucess_removed'] = "Server has been successfully removed.";
-$lang['server_sucess_edited'] = "Server has been successfully edited.";
-$lang['server_sucess_added'] = "Server has been successfully added.";
-$lang['server_error_rank'] = "Please specify at least one rank, separated by a comma!<br>Example: tmod, moderator, admin";
-$lang['error_msg_title'] = "Hold on!";
-$lang['success_msg_title'] = "Success!";
-$lang['rank_choose'] = "For what rank are you applying?";
-$lang['please_server_select'] = "Please select a server";
-$lang['please_server_select2'] = "Please select a server above";
-$lang['rank_set'] = "Rank to set";
+$lang['ranks'] = "Rangos";
+$lang['applicant_forrank'] = "Aplicando por el rango:";
+$lang['server_specify_rank'] = "Por favor especifica los rangos aplicables separados por una coma (SENSITIVO A MAYUSCULAS, ASEGURATE QUE CONCUERDA CON EL JUEGO). Ejemplo: tmod, mod, admin, Head-Admin";
+$lang['servers_conf_desc_4'] = "Para editar un server, especifica el ID único, ingresa la nueva información, y presiona el boton verde.";
+$lang['admin_removed_success'] = "Administrador eliminado con éxito.";
+$lang['server_sucess_removed'] = "Servidor eliminado con éxito.";
+$lang['server_sucess_edited'] = "Servidor editado con éxito.";
+$lang['server_sucess_added'] = "Servidor agregado con éxito.";
+$lang['server_error_rank'] = "Por favor especifica al menos un rango, separado por una coma!<br>Ejemplo: tmod, moderator, admin";
+$lang['error_msg_title'] = "Espera!";
+$lang['success_msg_title'] = "Éxito!";
+$lang['rank_choose'] = "Para que rango estás aplicando?";
+$lang['please_server_select'] = "Por favor selecciona un servidor";
+$lang['please_server_select2'] = "Por favor selecciona un servidor arriba";
+$lang['rank_set'] = "Rango a establecer";
 
-$lang['app_wait_title'] = "Please wait a moment";
-$lang['app_wait_desc'] = "We are currently sending your application.";
+$lang['app_wait_title'] = "Por favor espera un momento";
+$lang['app_wait_desc'] = "Estamos enviando tu aplicación.";
 
-$lang['app_result:ok'] = "Your application has been successfully sent.";
-$lang['app_result:ok_title'] = "Good!";
+$lang['app_result:ok'] = "Tu aplicación ha sido enviada.";
+$lang['app_result:ok_title'] = "Genial!";
 
-$lang['app_result:error'] = "An unknown error has occurred! Please try again later.";
+$lang['app_result:error'] = "Un error desconocido ha ocurrido! Intenta de nuevo más tarde.";
 $lang['app_result:error_title'] = "Oh no!";
 
-$lang['app_result:invalidserver'] = "Please select at least one server before continuing!";
-$lang['app_result:invalidserver_title'] = "Hold on!";
+$lang['app_result:invalidserver'] = "Por favor selecciona al menos un servidor antes de continuar!";
+$lang['app_result:invalidserver_title'] = "Espera!";
 
-$lang['app_result:uploaderror'] = "An error occurred while trying to upload your images. Please try using another browser.";
+$lang['app_result:uploaderror'] = "Un error ha ocurrido al intentar subir tus imagenes. Por favor intenta usar otro navegador.";
 $lang['app_result:uploaderror_title'] = "Oh no!";
 
-$lang['app_result:upload_compat'] = "We only allow JPG, JPEG, PNG & GIF files that don't exceed 5MB are allowed.";
-$lang['app_result:upload_compat_title'] = "Hold on!";
+$lang['app_result:upload_compat'] = "Solo permitimos archivos JPG, JPEG, PNG & GIF que no excedan los 5MB.";
+$lang['app_result:upload_compat_title'] = "Espera!";
 
-$lang['app_result:appbanned'] = "You are currently banned from sending any new applications.";
-$lang['app_result:appbanned_title'] = "Wait a minute!";
+$lang['app_result:appbanned'] = "Actualmente te encuentras vetado de enviar nuevas aplicaciones.";
+$lang['app_result:appbanned_title'] = "Espera un minuto!";
 
-$lang['app_result:captcha'] = "You didn't pass the captcha! Please try again.";
-$lang['app_result:captcha_title'] = "Hold on!";
+$lang['app_result:captcha'] = "No has pasado el captcha! Intenta de nuevo.";
+$lang['app_result:captcha_title'] = "Espera!";
 
-$lang['app_result:email'] = "Please enter a valid email.";
-$lang['app_result:email_title'] = "Hold on!";
+$lang['app_result:email'] = "Por favor ingresa un correo electrónico válido.";
+$lang['app_result:email_title'] = "Espera!";
 
-$lang['app_result:applied'] = "You already have an application registered on the system!";
-$lang['app_result:applied_title'] = "Hold on!";
+$lang['app_result:applied'] = "Ya tienes una aplicacion pendiente registrada en el sistema!";
+$lang['app_result:applied_title'] = "Espera!";
 
-$lang['delete_ov'] = "Delete applications over time? (to allow re-applying)";
-$lang['delete_del'] = "How many days till the application is removed if the app is denied or accepted?";
+$lang['delete_ov'] = "Eliminar aplicaciones con el tiempo? (para permitir re-intentos)";
+$lang['delete_del'] = "Cuantos dias hasta que una aplicación sea removida si se encuentra aceptada o denegada?";
 ?>
