@@ -150,4 +150,53 @@ $lang['servers_conf_desc_3'] = "Pour supprimer un serveur, spécifiez l'ID uniqu
 $lang['server_specify_id'] = "Veuillez spécifier l’identifiant unique du serveur: (assurez-vous qu’il est unique, sinon il n’ajoutera pas)";
 $lang['server_specify_name'] = "Veuillez spécifier le nom du serveur: (si vous supprimez un serveur, laissez simplement ce champ vide)";
 $lang['server_not_available'] = "L'administrateur du serveur n'a pas encore configuré les serveurs disponibles! <br> Veuillez revenir plus tard..";
+
+$lang['ranks'] = "Ranks";
+$lang['applicant_forrank'] = "Applying for rank:";
+$lang['server_specify_rank'] = "Please specify the server applicable ranks separated by a comma (CASE SENSITIVE, BE SURE IT EQUALS IN-GAME). Example: tmod, mod, admin, Head-Admin";
+$lang['servers_conf_desc_4'] = "To edit a server, specify the server unique ID, type new data, and press the green button.";
+$lang['admin_removed_success'] = "Admin removed successfully.";
+$lang['server_sucess_removed'] = "Server has been successfully removed.";
+$lang['server_sucess_edited'] = "Server has been successfully edited.";
+$lang['server_sucess_added'] = "Server has been successfully added.";
+$lang['server_error_rank'] = "Please specify at least one rank, separated by a comma!<br>Example: tmod, moderator, admin";
+$lang['error_msg_title'] = "Hold on!";
+$lang['success_msg_title'] = "Success!";
+$lang['rank_choose'] = "For what rank are you applying?";
+$lang['please_server_select'] = "Please select a server";
+$lang['please_server_select2'] = "Please select a server above";
+$lang['rank_set'] = "Rank to set";
+
+$lang['app_wait_title'] = "Please wait a moment";
+$lang['app_wait_desc'] = "We are currently sending your application.";
+
+$lang['app_result:ok'] = "Your application has been successfully sent.";
+$lang['app_result:ok_title'] = "Good!";
+
+$lang['app_result:error'] = "An unknown error has occurred! Please try again later.";
+$lang['app_result:error_title'] = "Oh no!";
+
+$lang['app_result:invalidserver'] = "Please select at least one server before continuing!";
+$lang['app_result:invalidserver_title'] = "Hold on!";
+
+$lang['app_result:uploaderror'] = "An error occurred while trying to upload your images. Please try using another browser.";
+$lang['app_result:uploaderror_title'] = "Oh no!";
+
+$lang['app_result:upload_compat'] = "We only allow JPG, JPEG, PNG & GIF files that don't exceed 5MB are allowed.";
+$lang['app_result:upload_compat_title'] = "Hold on!";
+
+$lang['app_result:appbanned'] = "You are currently banned from sending any new applications.";
+$lang['app_result:appbanned_title'] = "Wait a minute!";
+
+$lang['app_result:captcha'] = "You didn't pass the captcha! Please try again.";
+$lang['app_result:captcha_title'] = "Hold on!";
+
+$lang['app_result:email'] = "Please enter a valid email.";
+$lang['app_result:email_title'] = "Hold on!";
+
+$lang['app_result:applied'] = "You already have an application registered on the system!";
+$lang['app_result:applied_title'] = "Hold on!";
+
+$lang['delete_ov'] = "Delete applications over time? (to allow re-applying)";
+$lang['delete_del'] = "How many days till the application is removed if the app is denied or accepted?";
 ?>
