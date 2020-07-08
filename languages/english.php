@@ -7,7 +7,7 @@
 // Press the \"Submit" button.
 // Press the "Submit\" button.
 // THE RIGHT WAY IS ONLY THIS ONE:
-// Press the \"Submit\" button.
+// Press the \"Submit\" button.oh 
 // \" This \" Will Not \" Break \"\" Anything \"\"\"
 // HOPE YOU UNDERSTAND IT.
 // YOU CAN ACTUALLY SEE A LIVE EXAMPLE AT LINE 16.
@@ -58,7 +58,7 @@ $lang['id'] = "ID";
 $lang['name'] = "Name";
 $lang['datew'] = "Date";
 $lang['banned_b'] = "Banned by";
-$lang['cause'] = "Cause";
+$lang['cause'] = "Reason";
 $lang['ban_reason'] = "Specify ban reason: (if you're unbanning someone, just leave this blank)";
 $lang['settings'] = "Settings";
 $lang['settings_desc_1'] = "Here you can preview or modify your system settings.";
@@ -97,7 +97,7 @@ $lang['warns'] = "Warns";
 $lang['accept'] = "Accept"; 
 $lang['deny'] = "Deny";
 $lang['remove'] = "Remove";
-$lang['conn_error'] = "There is an error at connecting with the database, check the configuration, if the error is persistent, open a ticket support. ERROR:";
+$lang['conn_error'] = "There was a problem at the moment of connecting to the database, most likely your MySQL username doesn't exist, password is incorrect, database doesn't exist or we can't create a connection to your host.<br>Error:";
 $lang['ban_by'] = "You have been permanently banned by";
 $lang['ban_from'] = "from applying";
 $lang['ban_reason_sys'] = "Reason:";
@@ -131,8 +131,8 @@ $lang['comments_remove_root'] = "Should ONLY root admins be allowed to remove co
 $lang['comments_remove_self'] = "Should admins/root admins be allowed to remove their own comments?";
 $lang['comments_admin_remove_root'] = "Should admins be allowed to remove root admin comments?";
 $lang['comments_admin_remove_admins'] = "Should admins be allowed to remove other admin comments?";
-$lang['comments_user_see'] = "Should applicants see what admins comment on his/her application?";
-$lang['comments_user_comment'] = "Should applicants be able to comment on his/her application?";
+$lang['comments_user_see'] = "Should applicants see what admins comment on their application?";
+$lang['comments_user_comment'] = "Should applicants be able to comment on their application?";
 $lang['comments_user_remove'] = "Should applicants be allowed to remove their own comments?";
 $lang['no_comments'] = "There are currently no comments, add a comment now below.";
 $lang['send_comment'] = "Send comment";
@@ -208,4 +208,17 @@ $lang['app_result:applied_title'] = "Hold on!";
 
 $lang['delete_ov'] = "Delete applications over time? (to allow re-applying)";
 $lang['delete_del'] = "How many days till the application is removed if the app is denied or accepted?";
+
+$lang['backup'] = "Backup Database";
+$lang['backup_config'] = "Backup Configuration";
+
+$lang['mandatory'] = "Mandatory";
+$lang['mandatory_2'] = "This answer was mandatory but the applicant didn't answer";
+
+$lang['gmod_playtime'] = "Forever playtime:";
+$lang['hours'] = "hours";
+
+$lang['deny_description'] = "What are the reasons of the denial? This message will be shown to the applicant.";
+
+$lang['app_pending'] = 'pending';
 ?>
